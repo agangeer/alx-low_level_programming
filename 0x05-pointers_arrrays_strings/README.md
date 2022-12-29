@@ -1,1 +1,1 @@
-file Descriptions
+script Descriptions
